@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>FE40D958-488F-4F44-BB69-E6DDF1DD103D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>FE40D958-488F-4F44-BB69-E6DDF1DD103D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Calculate_Even_Fibonacci-cuahaqagqrqwnreoqqciqmnlkydo</string>
+			<key>timeStartedRecording</key>
+			<real>600352936.62373304</real>
+			<key>timeStoppedRecording</key>
+			<real>600352939.18092895</real>
+			<key>title</key>
+			<string>Build target Calculate Even Fibonacci</string>
+			<key>uniqueIdentifier</key>
+			<string>FE40D958-488F-4F44-BB69-E6DDF1DD103D</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "f13bafb2072446006cdbddd89680dd41"
+build_time: [1578660433, 121159000]
+inputs:
+  "/Users/pierreoosthuizen/DEVELOPMENT/Projects/Euler/Calculate Even Fibonacci/Calculate Even Fibonacci/main.swift": [1578660284, 639088603]

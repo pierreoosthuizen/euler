@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BB70FD03-DD50-4EE0-B9A2-C0968C87FFDB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB70FD03-DD50-4EE0-B9A2-C0968C87FFDB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Calculate Even Fibonacci project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Calculate Even Fibonacci</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Calculate Even Fibonacci</string>
+			<key>timeStartedRecording</key>
+			<real>600353069.90345895</real>
+			<key>timeStoppedRecording</key>
+			<real>600353070.10940504</real>
+			<key>title</key>
+			<string>Build Calculate Even Fibonacci</string>
+			<key>uniqueIdentifier</key>
+			<string>BB70FD03-DD50-4EE0-B9A2-C0968C87FFDB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
