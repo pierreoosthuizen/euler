@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B4980DDD0823F2A4D85DCEB58D3BF377895EAAFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B4980DDD0823F2A4D85DCEB58D3BF377895EAAFF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10237848-CCC8-4EFB-A55A-69F9C3EE486D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B4980DDD0823F2A4D85DCEB58D3BF377895EAAFF" : "Euler\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Multiples_of_3_and_5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Multiples_of_3_and_5\/Multiples_of_3_and_5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pierreoosthuizen\/Euler.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4980DDD0823F2A4D85DCEB58D3BF377895EAAFF"
+    }
+  ]
+}

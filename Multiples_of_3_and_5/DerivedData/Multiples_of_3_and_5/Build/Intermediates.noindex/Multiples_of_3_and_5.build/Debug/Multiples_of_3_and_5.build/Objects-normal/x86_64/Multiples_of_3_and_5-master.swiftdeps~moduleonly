@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "cad7d679b6bb19024c4c0ed29da2677c"
+build_time: [1578917901, 309570000]
+inputs:
+  "/Users/pierreoosthuizen/DEVELOPMENT/Projects/Euler/Multiples_of_3_and_5/Multiples_of_3_and_5/main.swift": [1578917897, 903554354]
